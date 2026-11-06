@@ -1,0 +1,43 @@
+{
+  "source_crs_wkt": "GEOGCS[\"Coordinate System imported from GRIB file\",DATUM[\"unnamed\",SPHEROID[\"Spheroid imported from GRIB file\",6378160,298.253916296469]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AXIS[\"Latitude\",NORTH],AXIS[\"Longitude\",EAST]]",
+  "source_transform": [
+    0.009999999714244895,
+    0.0,
+    -129.99999999985712,
+    0.0,
+    -0.009999999714204058,
+    54.9999999998571,
+    0.0,
+    0.0,
+    1.0
+  ],
+  "source_width": 7000,
+  "source_height": 3500,
+  "crop_window": [
+    5572,
+    1406,
+    60,
+    47
+  ],
+  "crop_transform": [
+    0.009999999714244895,
+    0.0,
+    -74.28000159208457,
+    0.0,
+    -0.009999999714204058,
+    40.9400004016862,
+    0.0,
+    0.0,
+    1.0
+  ],
+  "crop_rows": 47,
+  "crop_cols": 60,
+  "zone_weight_max_sum_error": 4.952973624572365e-07,
+  "geometry_note": "Native 0.01-degree spacing; longitude/latitude overlay at MRMS nominal ~1 km scale. GRIB datum is unnamed; no survey-level positional precision claimed.",
+  "station_point_flat_indices": {
+    "USW00094728": 991,
+    "USW00014732": 999,
+    "USW00094789": 1851,
+    "USW00014734": 1511
+  }
+}

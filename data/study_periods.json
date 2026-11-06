@@ -1,0 +1,15 @@
+{
+  "source_start": "2021-01-01",
+  "source_end": "2026-08-31",
+  "centered_start": "2021-01-01",
+  "centered_end": "2025-12-31",
+  "service_start": "2022-01-01",
+  "service_end": "2023-12-31",
+  "pilot_start": "2023-08-01",
+  "pilot_end": "2023-10-31",
+  "pilot_event_id": "E20230928_16",
+  "pilot_map_hour": "2023-09-29 13:00:00",
+  "timezone": "America/New_York",
+  "later_start": "2024-09-07",
+  "later_end": "2025-12-19"
+}

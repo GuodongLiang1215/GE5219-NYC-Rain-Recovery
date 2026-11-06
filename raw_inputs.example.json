@@ -1,0 +1,18 @@
+{
+  "zone_labels": "data/zone_labels.csv",
+  "trip_jobs": [
+    {
+      "source": "green",
+      "month": "2023-08",
+      "file": "raw_data/green_tripdata_2023-08.parquet"
+    }
+  ],
+  "rainfall": {
+    "files": ["raw_data/MRMS_MultiSensor_QPE_01H_Pass2_00.00_20220725-170000.grib2.gz"],
+    "weights": "data/mrms_polygon_weights.npz",
+    "geometry": "data/mrms_grid_geometry.json",
+    "study_start": "2022-07-25T16:00:00Z",
+    "study_end_exclusive": "2022-07-25T17:00:00Z"
+  },
+  "baseline_jobs": []
+}

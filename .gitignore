@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+outputs/
+numeric_outputs/
+prepared/
+raw_data/
